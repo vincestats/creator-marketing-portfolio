@@ -1,4 +1,5 @@
 🎨 Creator Marketing Portfolio — Vincent Retg
+
 👋 Hey, I’m Vince — Creator, Growth Marketer & Digital Educator
 
 I’m a bilingual French–English creative strategist with 10+ years of experience building online learning products, marketing digital content, and growing creator-driven brands.
