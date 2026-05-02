@@ -1,8 +1,9 @@
 🎨 Creator Marketing Portfolio — Vincent Retg
 
-👋 Hey, I’m Vince — Creator, Growth Marketer & Digital Educator
+👋 Hey, I’m Vince — Creator, Growth Marketer & Digital Educator in music production and audio field.
 
-I’m a bilingual French–English creative strategist with 10+ years of experience building online learning products, marketing digital content, and growing creator-driven brands.
+I’m a bilingual French–English creative strategist with 10+ years of experience building online learning products, marketing digital content, and growing creator-driven brands. And great knowledge in music production, my first field.
+
 Over the past decade, I’ve:
 
 Produced 480+ educational videos for a YouTube community of 28,000+ music creators
@@ -17,7 +18,7 @@ It gives me a deep understanding of what creators want, how they behave, and wha
 🚀 Why This Portfolio Exists
 
 To showcase:
-My work as a creator
+My work as a creator and musician
 My skills as a growth marketer
 My ability to understand creators deeply
 My approach to content, funnels, and messaging
